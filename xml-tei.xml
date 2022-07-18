@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mi musa</title>
+            <author>Delmira Agustini</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Diachronic Spanish Sonnet Corpus</publisher>
+            <availability status="free">
+               <p>The text is freely available</p>
+            </availability>
+            <date>2022</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="digital-source">Biblioteca Cervantes Virtual, <title>Sonetos del siglo
+                  XIX</title> / editados por Ramón García González, <date when="2006">2006</date>,
+                  <ref target="http://www.cervantesvirtual.com/nd/ark:/59851/bmc4q861"/>, <ref
+                  target="http://www.cervantesvirtual.com/obra/sonetos-del-siglo-xix--0/"/>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg type="soneto">
+            <head>Mi musa</head>
+            <lg type="serventesio">
+               <l>Mi musa tomó un día la placentera ruta </l>
+               <l>de los campos fragantes; ornada de alboholes,</l>
+               <l>perfumando sus labios en la miel de la fruta</l>
+               <l>y dorando su cuerpo al fuego de los soles</l>
+            </lg>
+            <lg type="serventesio">
+               <l>Vivió como una ninfa: desnuda, en fresca gruta,</l>
+               <l>engalanando espejos de lagos tornasoles </l>
+               <l>La gran garza rosada de su forma impoluta </l>
+               <l>Volvió a mí como el oro de luz de los crisoles.</l>
+            </lg>
+            <lg type="terceto">
+               <l>Más pura; los cabellos emperlados de gotas</l>
+               <l>lucientes y prendidos de abrojos; trajo notas</l>
+               <l>de pájaro silvestre y en los labios más fuego.</l>
+            </lg>
+            <lg type="terceto">
+               <l>Yo peinela y vestila sus parisinas galas,</l>
+               <l>y ella hoy grave pasea por mis lujosas salas</l>
+               <l>un gran aire salvaje y un perfume de espliego.</l>
+            </lg>
+         </lg>
+      </body>
+   </text>
+</TEI>

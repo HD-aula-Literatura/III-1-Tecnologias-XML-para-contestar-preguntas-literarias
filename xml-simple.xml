@@ -1,0 +1,28 @@
+<texto>
+      <autora>Delmira Agustini</autora>
+      <titulo>Mi musa</titulo>
+      <poema>
+            <estrofa tipo="serventesio">
+                  <verso>Mi musa tomó un día la placentera ruta</verso>
+                  <verso>de los campos fragantes; ornada de alboholes,</verso>
+                  <verso>perfumando sus labios en la miel de la fruta</verso>
+                  <verso>y dorando su cuerpo al fuego de los soles</verso>
+            </estrofa>
+            <estrofa tipo="serventesio">
+                  <verso>Vivió como una ninfa: desnuda, en fresca gruta,</verso>
+                  <verso>engalanando espejos de lagos tornasoles</verso>
+                  <verso>La gran garza rosada de su forma impoluta</verso>
+                  <verso>Volvió a mí como el oro de luz de los crisoles.</verso>
+            </estrofa>
+            <estrofa tipo="terceto">
+                  <verso>Más pura; los cabellos emperlados de gotas</verso>
+                  <verso>lucientes y prendidos de abrojos; trajo notas</verso>
+                  <verso>de pájaro silvestre y en los labios más fuego</verso>
+            </estrofa>
+            <estrofa type="terceto">
+                  <verso>Yo peinela y vestila sus parisinas galas,</verso>
+                  <verso>y ella hoy grave pasea por mis lujosas salas</verso>
+                  <verso>un gran aire salvaje y un perfume de espliego</verso>
+            </estrofa>
+      </poema>
+</texto>
