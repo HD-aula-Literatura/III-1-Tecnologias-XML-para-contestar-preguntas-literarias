@@ -16,9 +16,9 @@ Utiliza el archivo `xml-tei.xml`
 
 3. Encuentra los elementos `<l>` que tengan un elemento `<l>` a continuación (esta sería una manera de excluir el último verso de cada estrofa)
 
+5. Encuentra los elementos `<lg>` que estén a continuación de un elemento `<head>`
+
 4. Encuentra los versos (elementos `<l>`) de los tercetos 
 
-5. ¿Qué expresión XPath te devuelve los hijos de `<bibl>`? ¿Cuántos nodos son?
-
-8. Proporciona tres expresiones XPath diferentes que te devuelvan la primera estrofa del poema
+8. Proporciona dos expresiones XPath diferentes que te devuelvan la primera estrofa del poema
 
