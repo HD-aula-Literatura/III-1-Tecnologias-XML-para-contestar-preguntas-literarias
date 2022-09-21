@@ -19,7 +19,7 @@ Si tienes Oxygen ...
 
 
 ### Línea de comandos
-Con XPath 3:
+Si estás acostrumbrad@ a trabajar con la terminal, las siguientes librerías te permitirán trabajar con XPath 3:
 - `xidel`
   - Ej.: `xidel -se '//element/@attribute' file.xml`
 - `saxon-lint`
@@ -30,6 +30,7 @@ Con XPath 3:
   - Hub de Tecnologías del Texto (TTHUB): https://tthub.io/ 
 - Sobre XPath:
   - Introducción a XPath (en inglés) de Elisa Besher-Bondar: https://newtfire.org/courses/tutorials/explainXPath.html 
+  - Introducción a XPath (en inglés) de David Birnbaum: http://dh.obdurodon.org/introduction-xpath.xhtml 
   - Tutorial XPath de la W3Schools (en inglés): https://www.w3schools.com/xml/xpath_intro.asp 
 - Sobre XQuery:
   - Lista de recursos (en inglés) para aprender XQuery con tutoriales, blogs y artículos: https://github.com/joewiz/learn-xquery 
