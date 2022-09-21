@@ -24,6 +24,13 @@ Si estás acostrumbrad@ a trabajar con la terminal, las siguientes librerías te
   - Ej.: `xidel -se '//element/@attribute' file.xml`
 - `saxon-lint`
   - Ej.: `saxon-lint --xpath '//element/@attribute' file.xml`
+
+## Interpretadores de XQuery
+
+### eXist-DB
+#### Instalación
+
+### Oxygen
   
 ## Recursos para profundizar
 - Sobre XML y TEI:
