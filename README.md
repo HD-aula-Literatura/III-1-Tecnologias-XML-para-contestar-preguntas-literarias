@@ -5,7 +5,9 @@
   - `xml-simple.xml`
   - `xml-simple-solapamiento.xml`
   - `xml-tei.xml`
-- Tareas
+- Tareas (ejercicios con soluciones)
+- Corpus (ficheros TEI-XML)
+- Queries (ficheros XQuery para explorar los archivos de la carpeta “Corpus”)
 
 ## Interpretadores de XPath
 
@@ -22,3 +24,13 @@ Con XPath 3:
   - Ej.: `xidel -se '//element/@attribute' file.xml`
 - `saxon-lint`
   - Ej.: `saxon-lint --xpath '//element/@attribute' file.xml`
+  
+## Recursos para profundizar
+- Sobre XML y TEI:
+  - Hub de Tecnologías del Texto (TTHUB): https://tthub.io/ 
+- Sobre XPath:
+  - Introducción a XPath (en inglés) de Elisa Besher-Bondar: https://newtfire.org/courses/tutorials/explainXPath.html 
+  - Tutorial XPath de la W3Schools (en inglés): https://www.w3schools.com/xml/xpath_intro.asp 
+- Sobre XQuery:
+  - Lista de recursos (en inglés) para aprender XQuery con tutoriales, blogs y artículos: https://github.com/joewiz/learn-xquery 
+
