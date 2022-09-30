@@ -13,7 +13,7 @@
 
 ### Oxygen
 
-Si tienes Oxygen ...
+Si tienes Oxygen, abre los documentos como archivos XML.
 
 ![image](https://user-images.githubusercontent.com/8516387/190921549-359a7e6d-ad4d-4147-94c4-509bbf567ef9.png)
 
