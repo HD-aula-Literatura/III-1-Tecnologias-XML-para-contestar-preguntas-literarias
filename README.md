@@ -38,13 +38,28 @@ Hay diferentes herramientas en línea que se pueden utilizar para navegar un fic
 ## Interpretadores de XQuery
 
 ### eXist-DB
-#### Instalación
+- Clica en el icono que presenta la versión estable más reciente que vemos al final de [la página de inicio de eXist-DB](http://exist-db.org/exist/apps/homepage/index.html).
+![image](https://user-images.githubusercontent.com/8516387/194758926-dccc8cb0-c4d5-4462-9316-fae4aef11f04.png)
+- Este enlace te llevará a la página GitHub del proyecto. Selecciona el fichero que cuyo nombre sigue el siguiente formato (en lugar de la letra “x” tendrás el número de la versión): `exist-installer-x.x.x.jar`
+- Abre el fichero (requiere que tengas Java instalado; [aquí](https://www.java.com/en/download/help/download_options.html) tienes unas instrucciones de cómo instalarlo si lo necesitas).
+- Una vez lances el fichero, te saldrá un diálogo de ayuda:
+![image](https://user-images.githubusercontent.com/8516387/194759256-bc19e219-a5ee-48d4-84c1-7a0ad62d61b8.png)
+- Selecciona el directorio de instalación (paso 2) y el directorio de datos (paso 3): puedes usar las opciones que te ofrece por defecto.
+- En el paso 4 establece la contraseña del usuario `admin` (el usuario administrado de la base de datos).
+- En los siguientes pasos, puedes aceptar las opciones por defecto.
+
+Para probar que la instalación ha funcionado, busca la aplicación entre los programas instalados y lánzala. Si el servidor funciona correctamente, en la página: http://localhost:8080/exist/ deberías ver el “Dashboard” de eXist (durante el proceso de instalación, has podido seleccionar la instalación de determinadas aplicaciones dentro de eXist, por lo que tu dashboard no debería ser idéntico al que se presenta en la captura):
+![image](https://user-images.githubusercontent.com/8516387/194759736-39f6bb49-71ff-4ff4-9c72-8d5168176aa8.png)
+
+En la esquina superior derecha, clica en `Login` y conéctate como el usuario `admin`. Entra en la aplicación [`eXide`](http://localhost:8080/exist/apps/eXide/index.html) y sigue las instrucciones del capítulo.
+
+Si tienes problemas durante la instalación, consulta las [instrucciones disponibles en la página de eXist](https://exist-db.org/exist/apps/doc/basic-installation).
 
 ### Oxygen
 Clica en `File > New...` y en el diálogo emergente selecciona `XQuery` y clica en `Create`. Guarda el documento en la carpeta `queries` que has descargado como parte de los materiales de este repositorio.
 
 En la esquina superior derecha, clica en el icono con las letras “xq” (XQuery debugger).
-![image](https://user-images.githubusercontent.com/8516387/194758042-6c8cce04-d17f-4d15-b6de-2f9516b6dd57.png)
+![image](https://user-images.githubusercontent.com/8516387/194758664-85013f85-fb55-48ea-b34b-6cf041da367c.png)
 
 
 Esto hará que la ventana del editor se divida en 3, y que en el menú aparezcan nuevas opciones que te permiten seleccionar cuál será el fichero de entrada, el fichero XQuery que se correrá, y el fichero de salida:
@@ -73,7 +88,7 @@ declare namespace tei = "http://www.tei-c.org/ns/1.0";
 declare namespace output = "http://www.w3.org/2010/xslt-xquery-serialization"; 
 declare option output:method "text"; 
 declare variable $corpus := collection('/db/apps/sonetos/xml');
-
+```
   
 ## Recursos para profundizar
 - Sobre XML y TEI:
