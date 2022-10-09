@@ -40,7 +40,7 @@ Hay diferentes herramientas en línea que se pueden utilizar para navegar un fic
 ### eXist-DB
 - Clica en el icono que presenta la versión estable más reciente que vemos al final de [la página de inicio de eXist-DB](http://exist-db.org/exist/apps/homepage/index.html).
 ![image](https://user-images.githubusercontent.com/8516387/194758926-dccc8cb0-c4d5-4462-9316-fae4aef11f04.png)
-- Este enlace te llevará a la página GitHub del proyecto. Selecciona el fichero que cuyo nombre sigue el siguiente formato (en lugar de la letra “x” tendrás el número de la versión): `exist-installer-x.x.x.jar`
+- Este enlace te llevará a la página GitHub del proyecto. Selecciona el fichero cuyo nombre sigue el siguiente formato (en lugar de la letra “x” tendrás el número de la versión): `exist-installer-x.x.x.jar`
 - Abre el fichero (requiere que tengas Java instalado; [aquí](https://www.java.com/en/download/help/download_options.html) tienes unas instrucciones de cómo instalarlo si lo necesitas).
 - Una vez lances el fichero, te saldrá un diálogo de ayuda:
 ![image](https://user-images.githubusercontent.com/8516387/194759256-bc19e219-a5ee-48d4-84c1-7a0ad62d61b8.png)
