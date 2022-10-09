@@ -89,7 +89,10 @@ declare namespace output = "http://www.w3.org/2010/xslt-xquery-serialization";
 declare option output:method "text"; 
 declare variable $corpus := collection('/db/apps/sonetos/xml');
 ```
-  
+Para correr una query, clica en la flecha azul más gruesa (Run): ![image](https://user-images.githubusercontent.com/8516387/194760107-aff5e125-d08c-458c-92ff-db438109f7bf.png)
+
+
+
 ## Recursos para profundizar
 - Sobre XML y TEI:
   - Hub de Tecnologías del Texto (TTHUB): https://tthub.io/ 
