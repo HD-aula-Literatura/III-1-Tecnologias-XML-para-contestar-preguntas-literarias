@@ -97,7 +97,7 @@ Para correr una query, clica en la flecha azul más gruesa (Run): ![image](https
 - Sobre XML y TEI:
   - Hub de Tecnologías del Texto (TTHUB): https://tthub.io/ 
 - Sobre XPath:
-  - Introducción a XPath (en inglés) de Elisa Besher-Bondar: https://newtfire.org/courses/tutorials/explainXPath.html 
+  - Introducción a XPath (en inglés) de Elisa Beshero-Bondar: https://newtfire.org/courses/tutorials/explainXPath.html 
   - Introducción a XPath (en inglés) de David Birnbaum: http://dh.obdurodon.org/introduction-xpath.xhtml 
   - Tutorial XPath de la W3Schools (en inglés): https://www.w3schools.com/xml/xpath_intro.asp 
 - Sobre XQuery:
